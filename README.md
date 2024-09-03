@@ -8,7 +8,6 @@ Buffer Size Impact: We experimented with different buffer sizes in both single-s
 
 Lab 2: Industry 4.0 Queuing System
 In this lab, we simulated a queuing system in an Industry 4.0 context to optimize production line management. The lab focused on:
-
 Buffer Management in Data Centers: We explored how buffer sizes at the Micro and Cloud Data Centers affect system performance. Larger buffers at the Micro Data Center level were particularly effective in reducing congestion and packet drop rates.
 Server Assignment Algorithms: We tested various algorithms (e.g., random, round-robin, and fastest-server assignment) to optimize load distribution. Round-robin proved to be the most effective in balancing the workload and minimizing delays.
 
