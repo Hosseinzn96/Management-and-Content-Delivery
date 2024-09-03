@@ -1,4 +1,4 @@
-# Management and Content Deliveryt
+# Management and Content Delivery
 Simulating and analyzing queuing systems for optimizing network performance and production line management in Industry 4.0 environments. This project explores buffer management, server assignment algorithms, and service time distributions in various network scenarios.
 
 Lab 1: Router Queuing System Simulation
