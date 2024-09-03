@@ -13,6 +13,6 @@ Buffer Management in Data Centers: We explored how buffer sizes at the Micro and
 Server Assignment Algorithms: We tested various algorithms (e.g., random, round-robin, and fastest-server assignment) to optimize load distribution. Round-robin proved to be the most effective in balancing the workload and minimizing delays.
 
 👥 Team Members
-@Setareh Pourgholamali
+Setareh Pourgholamali
 Hossein Zahedi Nezhad
 
