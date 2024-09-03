@@ -3,9 +3,9 @@ Simulating and analyzing queuing systems for optimizing network performance and 
 
 Lab 1: Router Queuing System Simulation
 We modeled the output link of a router as a queuing system to study its performance under various conditions. Key areas of focus include:
-
 System Behavior Analysis: We analyzed the impact of different arrival rates on key performance metrics such as delay, packet loss, and server utilization.
 Buffer Size Impact: We experimented with different buffer sizes in both single-server (M/M/1) and multi-server (M/M/2) configurations. Our findings showed that larger buffers significantly reduce packet loss in high-traffic scenarios.
+
 Lab 2: Industry 4.0 Queuing System
 In this lab, we simulated a queuing system in an Industry 4.0 context to optimize production line management. The lab focused on:
 
